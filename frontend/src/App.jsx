@@ -322,7 +322,7 @@ function App() {
                 <HelpCircle size={18} className="text-blue-400" />
                 Continuous Integration Infrastructure Ready
               </h3>
-              <p className="text-xs text-slate-400 mt-1 max-w-xl leading-relaxed">DocuAgent seamlessly integrates with version control engines. Configure automatic pull-request scanning hooks to update repository files with absolute self-dependency.</p>
+              <p className="text-xs text-slate-400 mt-1 max-w-xl leading-relaxed">CodeBlockDoc seamlessly integrates with version control engines. Configure automatic pull-request scanning hooks to update repository files with absolute self-dependency.</p>
             </div>
             <div className="flex flex-wrap gap-2.5 shrink-0">
               <span className="text-[11px] font-bold tracking-wide bg-white/5 border border-white/10 px-3 py-1.5 rounded-xl hover:bg-white/10 transition-all">GitHub Webhooks</span>
